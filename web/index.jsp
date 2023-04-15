@@ -214,7 +214,7 @@
                         <div class="row">
                             <div class="col-md-6 col-md-offset-3 text-center heading-section animate-box">
                                 <h3>Santionany amin'ny asanay</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.</p>
+                                <p>We are a dedicated group of individuals who believe that no child should ever have to go hungry. Unfortunately, this is not the reality for many children in our world today. According to the World Health Organization, an estimated 149 million children under the age of 5 suffer from chronic malnutrition globally. That's why we've made it our mission to fight child hunger and improve the lives of these children and their families..</p>
                             </div>
                         </div>
 
@@ -278,7 +278,7 @@
                         <div class="row">
                             <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
                                 <h3>Ireo Tsara sitrapo</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.</p>
+                                <p>I am writing to express my gratitude for the opportunity to support your organization through my recent donation. As a passionate advocate for the important work you do, I am thrilled to have been able to make a contribution to further your efforts..</p>
                             </div>
                         </div>
                     </div>
@@ -290,7 +290,7 @@
                                         <img src="resources/images/person_1.jpg" alt="user">
                                     </figure>
                                     <blockquote>
-                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;</p>
+                                        <p>&ldquo;I was impressed to learn about the impact that your organization has made in the community, and I am honored to have played a small role in supporting your mission. Your work to [insert specific programs or initiatives] is truly making a difference in the lives of those you serve.&rdquo;</p>
                                     </blockquote>
                                     <span>Herinantenaina.</span>
                                 </div>
@@ -301,7 +301,7 @@
                                         <img src="resources/images/person_2.jpg" alt="user">
                                     </figure>
                                     <blockquote>
-                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;</p>
+                                        <p>&ldquo;I hope my donation has helped in some way to further your important work, and I look forward to hearing about the continued success of your programs and initiatives. Please keep up the great work, and thank you again for the opportunity to support your organization.&rdquo;</p>
                                     </blockquote>
                                     <span>Bill Gates</span>
                                 </div>
@@ -312,7 +312,7 @@
                                         <img src="resources/images/person_3.jpg" alt="user">
                                     </figure>
                                     <blockquote>
-                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;</p>
+                                        <p>&ldquo;I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.d.&rdquo;</p>
                                     </blockquote>
                                     <span>Jef Bezos </span>
                                 </div>
@@ -327,7 +327,7 @@
                         <div class="row">
                             <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
                                 <h3>Ireot tetikasanay</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.</p>
+                                <p>Our project focuses on several key areas to help combat child hunger. One of our main initiatives is to provide nutritious meals to children in need. We work with local schools and community organizations to identify children who are at risk of hunger and provide them with healthy, balanced meals to ensure they have the energy and nutrients they need to grow and thrive..</p>
                             </div>
                         </div>
                     </div>
@@ -337,42 +337,42 @@
                                 <div class="services animate-box">
                                     <span><i class="icon-heart"></i></span>
                                     <h3>Fiompiana</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                    <p>Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4">
                                 <div class="services animate-box">
                                     <span><i class="icon-heart"></i></span>
                                     <h3>Fampitaovana</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                    <p>Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4">
                                 <div class="services animate-box">
                                     <span><i class="icon-heart"></i></span>
                                     <h3>Fampiantranoana</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                    <p>Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4">
                                 <div class="services animate-box">
                                     <span><i class="icon-heart"></i></span>
                                     <h3>Fanabeazana fototra</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                    <p>Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4">
                                 <div class="services animate-box">
                                     <span><i class="icon-heart"></i></span>
                                     <h3>Famatsiana rano fisotro madio</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                    <p>Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4">
                                 <div class="services animate-box">
                                     <span><i class="icon-heart"></i></span>
                                     <h3>Fitafy</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                    <p>Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                 </div>
                             </div>
                         </div>
@@ -401,7 +401,7 @@
                                             <h3><a href="#">Fitsaboana Beraketa</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Hunger and pain, deep povrety,Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>Hunger and pain, deep povrety,Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -415,7 +415,7 @@
                                             <h3><a href="#">Ady amin'ny tsy fanjarian'tsakafo</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -460,7 +460,7 @@
                                         <a href="#"><i class="icon-dribbble2"></i></a>
                                         <a href="#"><i class="icon-youtube"></i></a>
                                     </p>
-                                    <p> <a href="https://unsplash.com/" target="_blank">Crée avec java EE 8 </a></p>
+                                    <p> <a href="https://aportfolio.vercel.app/" target="_blank">Crée avec java EE 8 </a></p>
                                 </div>
                             </div>
                         </div>

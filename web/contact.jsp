@@ -119,7 +119,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <h3 class="section-title">Ny toerana misy anay</h3>
-                                    <p> lorem Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                    <p> lorem Another important aspect of our project is advocating for policies and programs that support child nutrition and food security. We believe that governments and policymakers have a critical role to play in addressing the root causes of child hunger, and we work to raise awareness and influence policy decisions at the local, national, and international levels..</p>
                                     <ul class="contact-info">
                                         <li><i class="icon-location-pin"></i>198 M 128 Isoraka Antananarivo MDG</li>
                                         <li><i class="icon-phone2"></i>+ 261 34 25 698 79</li>

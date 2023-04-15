@@ -131,7 +131,7 @@
                                             <h3><a href="#">Fitsaboana any Beraketa</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -145,7 +145,7 @@
                                             <h3><a href="#">Fitsaboana any Ihorombe</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -160,7 +160,7 @@
                                             <h3><a href="#">Fampitaovana</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -176,7 +176,7 @@
                                             <h3><a href="#">Famatsiana sakafo</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -191,7 +191,7 @@
                                             <h3><a href="#">Fambolena sy fiompiana</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -205,7 +205,7 @@
                                             <h3><a href="#">Fampitaovana</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -220,7 +220,7 @@
                                             <h3><a href="#">Fizarana akanjo</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -235,7 +235,7 @@
                                             <h3><a href="#">Fanabeazana fototra</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 
@@ -250,7 +250,7 @@
                                             <h3><a href="#">Fizarana sakafo</a></h3>
                                             <span class="posted_by">Sep. 15th</span>
                                             <span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                                            <p>I am also pleased to see how efficiently and effectively your organization utilizes its resources to achieve your goals. Seeing the tangible results of my donation has given me great satisfaction and reinforces my belief in the importance of supporting organizations like yours.</p>
                                             <p><a href="#">Fanazavana fanampiny...</a></p>
                                         </div>
                                     </div> 

@@ -117,7 +117,7 @@
 				<div class="row">
 					<div class="col-md-12 text-center heading-section">
 						<h3>Ny niandohanay.</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						<p>I was impressed to learn about the impact that your organization has made in the community, and I am honored to have played a small role in supporting your mission. Your work to help kids  is truly making a difference in the lives of those you serve..</p>
 					</div>
 				</div>
 
@@ -136,19 +136,19 @@
 					<div class="col-md-4">
 						<div class="feature-text">
 							<h3>Fitiavana</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p>I hope my donation has helped in some way to further your important work, and I look forward to hearing about the continued success of your programs and initiatives. Please keep up the great work, and thank you again for the opportunity to support your organization..</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="feature-text">
 							<h3>Fiantrana</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p>I was impressed to learn about the impact that your organization has made in the community, and I am honored to have played a small role in supporting your mission. Your work to help kids  is truly making a difference in the lives of those you serve..</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="feature-text">
 							<h3>Fahatsoram-po</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p>I hope my donation has helped in some way to further your important work, and I look forward to hearing about the continued success of your programs and initiatives. Please keep up the great work, and thank you again for the opportunity to support your organization..</p>
 						</div>
 					</div>
 				</div>
@@ -243,7 +243,7 @@
 							<div>
 								<h3>Hery antenaina</h3>
 								<p><span>Mpanorina</span></p>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+								<p>I was impressed to learn about the impact that your organization has made in the community, and I am honored to have played a small role in supporting your mission. Your work to help kids  is truly making a difference in the lives of those you serve.. I hope my donation has helped in some way to further your important work, and I look forward to hearing about the continued success of your programs and initiatives. Please keep up the great work, and thank you again for the opportunity to support your organization..</p>
 							</div>
 							
 							<p class="fh5co-social-icons">
@@ -261,7 +261,7 @@
 							<div>
 								<h3>Bill gates</h3>
 								<p><span>Mpamatsy vola</span></p>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+								<p>I was impressed to learn about the impact that your organization has made in the community, and I am honored to have played a small role in supporting your mission. Your work to help kids  is truly making a difference in the lives of those you serve.. I hope my donation has helped in some way to further your important work, and I look forward to hearing about the continued success of your programs and initiatives. Please keep up the great work, and thank you again for the opportunity to support your organization..</p>
 							</div>
 							<p class="fh5co-social-icons">
 								<a href="#"><i class="icon-twitter2"></i></a>
@@ -278,7 +278,7 @@
 							<div>
 								<h3>Fondation siteny</h3>
 								<p><span>Mpisehatra ifotony</span></p>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+								<p>I was impressed to learn about the impact that your organization has made in the community, and I am honored to have played a small role in supporting your mission. Your work to help kids  is truly making a difference in the lives of those you serve.. I hope my donation has helped in some way to further your important work, and I look forward to hearing about the continued success of your programs and initiatives. Please keep up the great work, and thank you again for the opportunity to support your organization..</p>
 							</div>
 							<p class="fh5co-social-icons">
 								<a href="#"><i class="icon-twitter2"></i></a>
